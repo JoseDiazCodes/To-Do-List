@@ -4,7 +4,9 @@ A simple, stylish, and interactive To Do List implemented with HTML, CSS, and Ja
 
 ## Preview
 
-![To-Do List Animated Preview](img/Preview.gif)
+<div align="center">
+  <img src="img/Preview.gif" alt="To-Do List Animated Preview">
+</div>
 
 ## Features
 
